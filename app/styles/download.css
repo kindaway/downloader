@@ -1,0 +1,13 @@
+Screen {
+    layout: vertical;
+    layers: below above;
+}
+
+.download_label {
+    margin-right: 3;
+}
+
+.download {
+    height: 5;
+    border: solid green;
+}
